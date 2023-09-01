@@ -1,6 +1,10 @@
 # Lead Acquisition Analysis using Power BI 📈
 
 **Boosted conversion rates and lead response times. ⏲️**
+## Access the Power BI Dashboard
+
+To explore the live Power BI dashboard created for this project, [click here](https://app.powerbi.com/links/cVJwXhXmwJ?ctid=f24149cc-9205-4d16-8e46-11e5b93d0453&pbi_source=linkShare&bookmarkGuid=cb7a0d61-71aa-45c7-b0ab-eb2b8761f9ac). 📊
+
 
 ## Tools and Technologies 🛠️
 
