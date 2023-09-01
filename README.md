@@ -2,6 +2,12 @@
 
 **Boosted conversion rates and lead response times.**
 
+## Tools and Technologies:
+
+- **Power BI**: Data visualization and dynamic dashboard creation.
+- **Power Query**: Data extraction, transformation, and loading.
+- **Microsoft Excel**: Data preprocessing and analysis.
+
 ## Data Preparation and Cleaning:
 
 - Extracted lead and sales data using **Power Query** from diverse sources.
@@ -20,9 +26,4 @@
 - Identified and addressed lead follow-up bottleneck, offering actionable solutions.
 - Presented insights leading to personalized outreach strategy adoption.
 
-## Tools and Technologies:
-
-- **Power BI**: Data visualization and dynamic dashboard creation.
-- **Power Query**: Data extraction, transformation, and loading.
-- **Microsoft Excel**: Data preprocessing and analysis.
 
