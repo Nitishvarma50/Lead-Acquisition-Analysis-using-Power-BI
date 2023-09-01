@@ -3,7 +3,7 @@ Boosted conversion rates and lead response times.
 
 ## Data Preparation and Cleaning:
 
-Extracted lead and sales data using Power Query from diverse sources.
+Extracted lead and sales data using Power Query from diverse sources./n
 Conducted meticulous data cleaning to ensure accuracy by addressing missing values and outliers.
 Standardized and transformed data for cohesive analysis.
 Visualization and Dashboard Creation:
